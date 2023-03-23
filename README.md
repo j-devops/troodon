@@ -12,5 +12,15 @@ lorem ipsum
 3. Power on troodon
 4. Should flash in 1-2mins and come back online
 
-#notes
-noticed that safe z probe location was off bewteen machines; be sure to have finger on emergency stop when first homing after firmware change.
+# notes / warnings
+noticed that safe z home location was off bewteen machines; be sure to have finger on emergency stop when first homing after firmware change to avoid a bed smash.
+
+[safe_z_home]
+##  XY Location of the Z Endstop Switch
+##  Update -10,-10 to the XY coordinates of your endstop pin 
+##  (such as 157,305) after going through Z Endstop Pin
+##  Location Definition step.
+#home_xy_position: 232,347 old value
+home_xy_position: 229,347
+speed:100
+z_hop:10
