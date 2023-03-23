@@ -13,7 +13,7 @@ lorem ipsum
 4. Should flash in 1-2mins and come back online
 
 # notes / warnings
-noticed that safe z home location was off bewteen machines; be sure to have finger on emergency stop when first homing after firmware change to avoid a bed smash.
+noticed that safe z home location was off bewteen machines; be sure to have finger on emergency stop when first homing after firmware change to avoid a bed smash.  Might be variance on pin location with the machines?  
 ```
 [safe_z_home]
 
