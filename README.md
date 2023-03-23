@@ -14,6 +14,8 @@ lorem ipsum
 
 # notes / warnings
 Noticed that safe z home location was off bewteen machines; be sure to have finger on emergency stop when first homing after firmware change to avoid a bed smash.  Might be variance on pin location with the machines?  
+
+### Klipper example
 ```
 [safe_z_home]
 
