@@ -7,7 +7,10 @@ Just a simple repo to store collection of troodon 2.0 adventures
 lorem ipsum
 
 # Flashing back oem reprap firmware
-1. Put the trodoon-stock-firmware director contents to the root of a sdcard
+1. Put the trodoon-stock-firmware directory contents to the root of a sdcard
 2. Insert sdcard into the troodon
 3. Power on troodon
 4. Should flash in 1-2mins and come back online
+
+#notes
+noticed that safe z probe location was off bewteen machines; be sure to have finger on emergency stop when first homing after firmware change.
