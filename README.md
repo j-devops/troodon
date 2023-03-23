@@ -1,5 +1,5 @@
-# troodon2
-troodon 2.0 profiles, firmware and info repo
+# Troodon 2
+## troodon 2.0 profiles, firmware and info repo
 
 Just a simple repo to store collection of troodon 2.0 adventures
 
